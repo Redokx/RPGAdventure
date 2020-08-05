@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace RPGAdventure
 {
-    public partial class Form1 : Form
+    public partial class RPGAdventure : Form
     {
-        public Form1()
+        public RPGAdventure()
         {
             InitializeComponent();
+        }
+
+        private void btnTest_Click(object sender, EventArgs e)
+        {
+            lblExperience.Text = "123";
         }
     }
 }

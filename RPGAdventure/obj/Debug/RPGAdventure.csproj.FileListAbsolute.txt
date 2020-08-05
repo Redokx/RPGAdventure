@@ -1,0 +1,10 @@
+C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\bin\Debug\RPGAdventure.exe.config
+C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\bin\Debug\RPGAdventure.exe
+C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\bin\Debug\RPGAdventure.pdb
+C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\obj\Debug\RPGAdventure.csprojAssemblyReference.cache
+C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\obj\Debug\RPGAdventure.Properties.Resources.resources
+C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\obj\Debug\RPGAdventure.RPGAdventure.resources
+C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\obj\Debug\RPGAdventure.csproj.GenerateResource.cache
+C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\obj\Debug\RPGAdventure.csproj.CoreCompileInputs.cache
+C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\obj\Debug\RPGAdventure.exe
+C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\obj\Debug\RPGAdventure.pdb

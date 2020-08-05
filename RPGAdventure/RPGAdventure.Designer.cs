@@ -121,6 +121,7 @@
             this.Controls.Add(this.label1);
             this.Name = "RPGAdventure";
             this.Text = "MyGame";
+            
             this.ResumeLayout(false);
             this.PerformLayout();
 

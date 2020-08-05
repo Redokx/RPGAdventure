@@ -20,6 +20,10 @@ namespace RPGAdventure
         {
             InitializeComponent();
 
+            
+            
+
+
             _player = new Player();
 
             _player.CurrentHitPoints = 10;
@@ -33,10 +37,9 @@ namespace RPGAdventure
             lblExperience.Text = _player.ExperiencePoints.ToString();
             lblLevel.Text = _player.Level.ToString();
 
+            
         }
+
         
-
-
-
     }
 }

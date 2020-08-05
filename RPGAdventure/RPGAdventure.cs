@@ -20,18 +20,14 @@ namespace RPGAdventure
         {
             InitializeComponent();
 
-            
-            
 
 
-            _player = new Player();
 
-            _player.CurrentHitPoints = 10;
-            _player.MaximumHitPoints = 10;
-            _player.Gold = 20;
-            _player.ExperiencePoints = 0;
-            _player.Level = 1;
+            //constructor with values
+            _player = new Player(10, 10, 20, 0, 1);
 
+           
+            //transfer data to label
             lblHitPoints.Text = _player.CurrentHitPoints.ToString();
             lblGold.Text = _player.Gold.ToString();
             lblExperience.Text = _player.ExperiencePoints.ToString();

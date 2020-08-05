@@ -8,3 +8,6 @@ C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\obj\Debug\RPGAdventure.cspr
 C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\obj\Debug\RPGAdventure.csproj.CoreCompileInputs.cache
 C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\obj\Debug\RPGAdventure.exe
 C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\obj\Debug\RPGAdventure.pdb
+C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\bin\Debug\Engine.dll
+C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\bin\Debug\Engine.pdb
+C:\Users\Kono\source\repos\RPGAdventure\RPGAdventure\obj\Debug\RPGAdventure.csproj.CopyComplete

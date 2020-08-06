@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="RandomNumberGenerator.cs" />
     <Compile Include="HealingPotion.cs" />
     <Compile Include="InventoryItem.cs" />
     <Compile Include="Item.cs" />

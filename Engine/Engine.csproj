@@ -48,12 +48,14 @@
     <Compile Include="Location.cs" />
     <Compile Include="LootItem.cs" />
     <Compile Include="Monster.cs" />
+    <Compile Include="NumberAssigner.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="PlayerQuest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Quest.cs" />
     <Compile Include="QuestCompletionItem.cs" />
     <Compile Include="Weapon.cs" />
+    <Compile Include="World.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

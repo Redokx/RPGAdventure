@@ -32,8 +32,7 @@ namespace RPGAdventure
             lblGold.Text = _player.Gold.ToString();
             lblExperience.Text = _player.ExperiencePoints.ToString();
             lblLevel.Text = _player.Level.ToString();
-
-            
+           
         }
 
         
